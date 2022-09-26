@@ -1,7 +1,7 @@
 ### Hi, I'm Lucas! 😀
 
 - 📚 I'm studying systems analysis and development at Senac, in Tubarão, my hometown.
-- 🌱 I’m currently learning JAVA, HTML, CSS, JavaScript ands PostgreSQL.
+- 🌱 I’m currently learning JAVA, HTML, CSS, JavaScript and PostgreSQL.
 - ⚽ I have a hobby of playing and watching football, I love this sport!
 
 <div align="center">
