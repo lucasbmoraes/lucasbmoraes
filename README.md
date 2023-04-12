@@ -1,8 +1,9 @@
 ### Hi, I'm Lucas! 😀
 
-- 📚 I'm studying systems analysis and development at Senac, in Tubarão, my hometown.
-- 🌱 I’m currently learning JAVA, HTML, CSS, JavaScript and PostgreSQL.
-- ⚽ I have a hobby of playing and watching football, I love this sport!
+- 💻 - I am currently working as an intern software quality analyst
+- 📚 - I'm studying systems analysis and development at Senac, in Tubarão, my hometown
+- 🧠 - My focus right now is learn more about software tests and automated tests
+- ⚽ - In my free time I like to play and watch football, be with my friends and family, watch movies and explore the world
 
 <div align="center">
   <a href="https://github.com/lucasbmoraes">
